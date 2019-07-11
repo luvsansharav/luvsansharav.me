@@ -50,7 +50,7 @@ class Home extends Component {
         </div>
         <div className="d-flex justify-content-center mt-5">
           <Fragment>
-            <h1>time is flying</h1>
+            {/* <h1>test</h1> */}
             <Timeline>
               <Event
                 interval={"May 25, 2019"}
