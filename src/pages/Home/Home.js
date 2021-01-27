@@ -53,37 +53,6 @@ class Home extends Component {
             {/* <h1>test</h1> */}
             <Timeline>
               <Event
-                interval={"May 25, 2019"}
-                title={"What is Cloud Computing?"}
-                subtitle={"A cloud is the future of computing!"}
-              >
-                <p>
-                  A cloud services platform provides rapid access to flexible
-                  and low cost IT resources. With cloud computing, you don’t
-                  need to make large upfront investments in hardware and spend a
-                  lot of time on the heavy lifting of managing that hardware.
-                  Instead, you can provision exactly the right type and size of
-                  computing resources you need to power your newest idea or
-                  operate your IT department. You can access as many resources
-                  as you need, almost instantly, and only pay for what you use.
-                </p>
-                <p>
-                  #cloud services, #computing, #platform, #low cost, #no
-                  hardware #computing resources, #provision #instant, #pay for
-                  whay you use #innovate faster #agility #scale up/down
-                  #elasticity #deploy globally
-                </p>
-                <audio
-                  controls
-                  src="https://s3-us-west-2.amazonaws.com/luvsansharav.me-audio-archive/cloudcomputing_speech.mp3"
-                />
-                <footer className="blockquote-footer mt-4">
-                  <cite title="Source Title">
-                    Reference, https://aws.amazon.com/what-is-cloud-computing/
-                  </cite>
-                </footer>
-              </Event>
-              <Event
                 interval={"May 24, 2019"}
                 title={"Who is Loya?"}
                 subtitle={"First post ever!"}
