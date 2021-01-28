@@ -39,7 +39,7 @@ class Home extends Component {
           <div className="container">
             <div className="hero__standout">
               <img
-                src="assets/images/about-us.jpg"
+                src="assets/images/about-us.png"
                 className="img-fluid"
                 alt="Image article"
               />
