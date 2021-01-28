@@ -56,7 +56,7 @@ class Home extends Component {
                     <section className="section pt-40 pb-0">
                       <div className="container">
                         <div className="row">
-                          <div className="col-lg-8 offset-lg-2">
+                          <div className="col-lg-12 offset-lg-2">
                             
                             <div className="footer__widget">
                               <ul className="footer__widget-network">
@@ -73,6 +73,16 @@ class Home extends Component {
                                 <li>
                                   <a href="https://www.linkedin.com/in/luvsansharav" className="footer__widget-network-link" target="_blank">
                                     <i className="fa fa-linkedin"></i>
+                                  </a>
+                                </li>
+                                <li>
+                                  <a href="https://twitter.com/luvsansharav" className="footer__widget-network-link" target="_blank">
+                                    <i className="fa fa-twitter"></i>
+                                  </a>
+                                </li>
+                                <li>
+                                  <a href="https://www.youtube.com/channel/UCEbShGDr4YKcpNF1Z1vSKxA" className="footer__widget-network-link" target="_blank">
+                                    <i className="fa fa-youtube"></i>
                                   </a>
                                 </li>
                               </ul>
