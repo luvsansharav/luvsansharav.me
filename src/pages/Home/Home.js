@@ -53,6 +53,35 @@ class Home extends Component {
                     <div className="headline">
                       Entrepreneur, Tech Lead, Software Engineer, Solutions Architect, DevOps Engineer, Site Reliability Engineer, Analyst
                     </div>
+                    <section className="section pt-40 pb-0">
+                      <div className="container">
+                        <div className="row">
+                          <div className="col-lg-8 offset-lg-2">
+                            
+                            <div className="footer__widget">
+                              <ul className="footer__widget-network">
+                                <li>
+                                  <a href="https://www.facebook.com/luvsansharav" className="footer__widget-network-link" target="_blank">
+                                    <i className="fa fa-facebook"></i>
+                                  </a>
+                                </li>
+                                <li>
+                                  <a href="https://www.instagram.com/luvsansharav/" className="footer__widget-network-link" target="_blank">
+                                    <i className="fa fa-instagram"></i>
+                                  </a>
+                                </li>
+                                <li>
+                                  <a href="https://www.linkedin.com/in/luvsansharav" className="footer__widget-network-link" target="_blank">
+                                    <i className="fa fa-linkedin"></i>
+                                  </a>
+                                </li>
+                              </ul>
+                            </div>
+                        
+                          </div>
+                        </div>
+                      </div>
+                    </section>
                   </div>
                 </div>
                 <div className="col-lg-6">
@@ -78,6 +107,8 @@ class Home extends Component {
           </div>
         </section>
         {/* End Section */}
+
+
       </div>
     );
   }
