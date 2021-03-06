@@ -101,8 +101,8 @@ class Home extends Component {
                     <h4>Who is Loya?</h4>
                     <p>
                     My name is Loya, the lastborn of House Altangerel. 
-                    I grew up in Mongolia its where my story begins and continuing my story in U.S.
-                    I am the one who fell in love with computer science and always want to build something nice.
+                    I grew up in Mongolia its where my story begins and continuing it in somewhere around world.
+                    I am the one who fell in love with any tech and always want to build something nice.
                     </p>
                     <h4>Professional expertise</h4>
                     <p>
