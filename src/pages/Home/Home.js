@@ -102,7 +102,7 @@ class Home extends Component {
                     <p>
                     My name is Loya, the lastborn of House Altangerel. 
                     I grew up in Mongolia its where my story begins and continuing it in somewhere around world.
-                    I am the one who fell in love with any tech and always want to build something nice.
+                    I am the problem solver who is interested in solving world-class optimization.
                     </p>
                     <h4>Professional expertise</h4>
                     <p>
@@ -112,6 +112,7 @@ class Home extends Component {
                     reliability, security, cost optimization, performance efficiency,
                     operational excellence, capacity planning, fleet management, serverless application
                     </p>
+                    <p>Want to build something nice? You can reach me at <strong>luvsansharav.a@gmail.com</strong></p>
                   </div>
                 </div>
               </div>
