@@ -51,7 +51,7 @@ class Home extends Component {
                       LOYA Altangerel{" "}
                     </h2>
                     <div className="headline">
-                      Entrepreneur, Tech Lead, Software Engineer, Solutions Architect, DevOps Engineer, Site Reliability Engineer, Analyst
+                      Software Engineer, Tech Lead, Solutions Architect, Consultant, DevOps/SRE, Tech Analyst
                     </div>
                     <section className="section pt-40 pb-0">
                       <div className="container">
@@ -87,7 +87,9 @@ class Home extends Component {
                                 </li>
                               </ul>
                             </div>
-                        
+                            <div className="col-lg-12 offset-lg-2">
+                              <a href='/assets/files/loya-resume.pdf' download>Download Resume</a>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -98,13 +100,13 @@ class Home extends Component {
                   <div className="hero__standout--content">
                     <h4>Who is Loya?</h4>
                     <p>
-                    My name is Loya, the second son of House Altangerel. 
-                    I grew up in Mongolia its where my story begins. 
-                    I am the one who loves to learn more about the computer science and share my experience.
+                    My name is Loya, the lastborn of House Altangerel. 
+                    I grew up in Mongolia its where my story begins and continuing my story in U.S.
+                    I am the one who fell in love with computer science and always want to build something nice.
                     </p>
                     <h4>Professional expertise</h4>
                     <p>
-                    8+ years of professional software development experience:
+                    10+ years of professional software development experience:
                     System design, development, problem solving, automation,
                     distributed systems, monitoring, troubleshooting, testing,
                     reliability, security, cost optimization, performance efficiency,
